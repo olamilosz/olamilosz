@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGfemBri2C03g/profile-displaybackgroundimage-shrink_350_1400/0/1711309116564?e=1717027200&v=beta&t=CFuLA59JTW7l_P76MVLE-T1I9YJKjFN6qNqh32f4x4Y">
+<img src="https://media.licdn.com/dms/image/D4D16AQGfemBri2C03g/profile-displaybackgroundimage-shrink_350_1400/0/1711309116564?e=1723680000&v=beta&t=eDf90mkNK4A3SduJjYoXGP27Wcgsre6pTgWC3TdZPho">
 
 ### Hi, I'm [Aleksandra](https://aleksandramiloch.pl/) and I'm an Android developer. 👋
 
