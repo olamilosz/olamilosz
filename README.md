@@ -11,4 +11,4 @@ Aleksandra Miloch - [Linkedin](https://www.linkedin.com/in/aleksandra-miloch/) -
 
 📱 My projects:
 * Fiszkards - [Website](https://fiszkards.pl/) - [Github repository](https://github.com/olamilosz/fiszkards/)
-* Uploadity - [Website](https://uploadity.net.pl/) - [Github repository](https://github.com/olamilosz/uploadity)
+* Uploadity - [Website](https://aleksandramiloch.pl/uploadity/) - [Github repository](https://github.com/olamilosz/uploadity)
